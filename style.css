@@ -1,0 +1,93 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.temp-box {
+    background-color: #f5f7fa;
+    display: flex;
+    justify-content: center;
+    border: none;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    max-width: 50%;
+    padding: 20px;
+}
+.another-box {
+    background-color: white;
+    border: none;
+    border-radius: 16px;
+    width: 100%; 
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+hr {
+    width: 60%;
+    border: 1px solid #ddd;
+}
+
+#h1 {
+    font-size: 28px;
+    font-weight: bold;
+    background: linear-gradient(to right, #3a0ca3, #4361ee);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.result {
+    font-size: 18px;
+    color: #2b2d42;
+    font-weight: 500;
+}
+
+
+.degree {
+    margin-top: 10px;
+    font-size: 15px;
+    width: 100%px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    padding-left: 10px;
+}
+
+.degree:focus {
+    outline: none;
+    border: 1px solid #4361ee;
+    box-shadow: 0 0 5px rgba(67,97,238,0.5);
+}
+
+#temperature {
+    width: 80%;
+    height: 40px;
+}
+
+#btn {
+    font-size: 16px;
+    color: white;
+    background: linear-gradient(to right, #3a0ca3, #7209b7);
+    width: 80%;
+    height: 50px;
+    border-radius: 16px;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+#btn:hover{
+   transform: scale(1.05);
+}
