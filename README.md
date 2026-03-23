@@ -2,19 +2,9 @@
 
 A simple and responsive **Temperature Converter** built using **HTML, CSS, and JavaScript**. It allows users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin in real-time.
 
----
-
 ## 🚀 Live Demo
 
-🔗 [Try Temperature Converter](https://your-live-link.com)
-
----
-
-## 📸 Preview
-
-(Add your project screenshot here)
-
----
+🔗   https://abhay82k.github.io/Temperature-Converter/
 
 ## ✨ Features
 
@@ -24,15 +14,11 @@ A simple and responsive **Temperature Converter** built using **HTML, CSS, and J
 * 📱 Responsive design (Mobile + Desktop)
 * 🧼 Clean and simple UI
 
----
-
 ## 🛠️ Tech Stack
 
 * **HTML5** – Structure
 * **CSS3** – Styling
 * **JavaScript** – Logic
-
----
 
 ## 📂 Folder Structure
 
@@ -42,8 +28,6 @@ temperature-converter/
 │── style.css
 │── script.js
 ```
-
----
 
 ## ⚙️ How to Run Locally
 
@@ -56,30 +40,22 @@ git clone https://github.com/your-username/temperature-converter.git
 2. Open folder
 3. Run `index.html` in browser
 
----
-
 ## 💡 Future Improvements
 
 * 🌙 Dark mode
 * 🎨 Better UI/UX
 * ⌨️ Keyboard input support
 
----
-
 ## 🙋‍♂️ Author
 
 **Abhay Kumar**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-
----
+* GitHub: https://github.com/Abhay82K
+* LinkedIn: www.linkedin.com/in/abhaykr21
 
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
-
----
 
 ## 📄 License
 
